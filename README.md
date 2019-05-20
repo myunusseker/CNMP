@@ -6,7 +6,7 @@ M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, Conditional Neural Movement
 
 ### Requirements:
 
-Python 2.7
+* Python 2.7
  
 * Jupyter Notebook
 
