@@ -1,8 +1,16 @@
 # Conditional Neural Movement Primitives
 
-This repository includes the supplementary material for the paper:
+![CNMP.png](CNMP.png)
 
-M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, Conditional Neural Movement Primitives, RSS 2019
+This repository includes the CNMP implementation and example material from the experiments of the paper:
+
+M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, [Conditional Neural Movement Primitives](http://www.roboticsproceedings.org/rss15/p71.pdf), RSS 2019
+
+\*\***NEW**\*\* 
+
+CNMP is now available as a complete and ready-to-use notebook package with enhanced structure, including features like: one, multi points or whole trajectory batch prediction at once, and dynamic input size implementation with a re-designed model via Keras.
+
+
 
 ### Requirements:
 
@@ -21,6 +29,8 @@ M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, Conditional Neural Movement
 
 ### Contact Information:
 
-* M. Yunus Seker , yunus.seker1@boun.edu.tr
+* M. Yunus Seker ,  m.yunusseker@hotmail.com, yunus.seker1@boun.edu.tr
 
 * Mert Imre , mert.imre@boun.edu.tr
+
+* Emre Ugur, emre.ugur@boun.edur.tr
