@@ -1,6 +1,5 @@
 # Conditional Neural Movement Primitives 
-
-**(KERAS Implementation)**
+**This branch includes Keras/Tensorflow implementation. For PyTorch implementation please refer to [master](https://github.com/myunusseker/CNMP/tree/master) branch**
 
 ![CNMP.png](CNMP.png)
 
