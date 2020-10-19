@@ -1,4 +1,6 @@
-# Conditional Neural Movement Primitives
+# Conditional Neural Movement Primitives 
+
+**(KERAS Implementation)**
 
 ![CNMP.png](CNMP.png)
 
