@@ -1,12 +1,8 @@
 Requirements:
 
-Python 2.7
+Python >= 3.6
 Jupyter Notebook
-Tensorflow >= 1.8.0
-Keras >= 2.0.0
-Matplotlib
-Tqdm (optional)
-
+PyTorch >= 1.6.0
 
 Contact Information:
 
