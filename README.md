@@ -15,13 +15,11 @@ M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, [Conditional Neural Movemen
 
 ### Requirements:
 
-* Python Python >=3.6
+* Python >=3.6
  
 * Jupyter Notebook
 
 * PyTorch >=1.6.0
-
-* Matplotlib
 
 
 ### Contact Information:
