@@ -29,3 +29,17 @@ M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, [Conditional Neural Movemen
 * Mert Imre , mert.imre@boun.edu.tr
 
 * Emre Ugur, emre.ugur@boun.edur.tr
+
+### Cite CNMP:
+You can use the [BibTex](http://www.roboticsproceedings.org/rss15/p71.pdf) below to cite CNMP
+
+```
+@INPROCEEDINGS{Ugur-RSS-19,
+    AUTHOR    = {Muhammet Yunus Seker AND Mert Imre AND Justus Piater AND Emre Ugur}, 
+    TITLE     = {Conditional Neural Movement Primitives}, 
+    BOOKTITLE = {Proceedings of Robotics: Science and Systems}, 
+    YEAR      = {2019}, 
+    ADDRESS   = {FreiburgimBreisgau, Germany}, 
+    MONTH     = {June}, 
+    DOI       = {10.15607/RSS.2019.XV.071}} 
+   ```
