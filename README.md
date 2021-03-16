@@ -5,7 +5,7 @@
 
 This repository includes the CNMP implementation and example material from the experiments of the paper:
 
-M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, [Conditional Neural Movement Primitives](http://www.roboticsproceedings.org/rss15/p71.pdf), RSS 2019
+M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, [Conditional Neural Movement Primitives](http://www.roboticsproceedings.org/rss15/p71.html), RSS 2019
 
 ## What's New ?
   * PyTorch implementation of the framework with:
@@ -31,7 +31,7 @@ M. Yunus Seker, Mert Imre, Justus Piater, Emre Ugur, [Conditional Neural Movemen
 * Emre Ugur, emre.ugur@boun.edur.tr
 
 ### Cite CNMP:
-You can use the [BibTex](http://www.roboticsproceedings.org/rss15/p71.pdf) below to cite CNMP
+You can use the [BibTex](http://www.roboticsproceedings.org/rss15/p71.html) below to cite CNMP
 
 ```
 @INPROCEEDINGS{Ugur-RSS-19,
